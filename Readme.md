@@ -18,3 +18,7 @@ Above equilibrium: Focus on increasing income and buying assets.
 
 ## Tools
 Python, NumPy, Pandas, Matplotlib
+## Charts
+![Line Chart](IMG-20260816-WA7185.jpg)
+![Bar Chart](IMG-20260818-WA6620.jpg) 
+![Equilibrium](IMG-20260818-WA8965.jpg)

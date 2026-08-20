@@ -18,7 +18,16 @@ Above equilibrium: Focus on increasing income and buying assets.
 
 ## Tools
 Python, NumPy, Pandas, Matplotlib
-## Charts
-![Line Chart](IMG-20260816-WA7185.jpg)
-![Bar Chart](IMG-20260818-WA6620.jpg) 
-![Equilibrium](IMG-20260818-WA8965.jpg)
+## Visualizations
+
+### 1. Time to Ksh 1M by Monthly Income - Bar Chart
+This shows how many months it takes to reach Ksh 1M at different income levels.
+![Bar Chart](Chart1_bar.png)
+
+### 2. MMF vs Saving Over Time - Line Chart  
+This shows compound growth vs linear saving for Ksh 50,000/month.
+![Line Chart](Chart2_line.png)
+
+### 3. The Equilibrium Point
+Below ~Ksh 80K-100K/month, investing matters a lot. Above it, income matters more.
+![Equilibrium Chart](Chart3_equilibrium.png)

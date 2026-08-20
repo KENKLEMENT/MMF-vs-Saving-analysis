@@ -30,4 +30,4 @@ This shows compound growth vs linear saving for Ksh 50,000/month.
 
 ### 3. The Equilibrium Point
 Below ~Ksh 80K-100K/month, investing matters a lot. Above it, income matters more.
-![Equilibrium Chart](Chart3_equilibrium.png)
+![Equilibrium Chart](Chart3_equlibrium.png)
